@@ -1,7 +1,7 @@
 # Auto Commit Log
 
-Last updated (backfilled): 2026-04-29T10:06:30.000Z
+Last updated (backfilled): 2026-04-29T14:48:06.000Z
 
-refactor: minor cleanup
+refactor: tidy helpers
 
 Keep the streak alive! 🔥
