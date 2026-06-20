@@ -1,7 +1,7 @@
 # Auto Commit Log
 
-Last updated (backfilled): 2026-06-19T03:20:24.000Z
+Last updated (backfilled): 2026-06-20T03:32:23.000Z
 
-docs: append changelog entry
+refactor: tidy helpers
 
 Keep the streak alive! 🔥
